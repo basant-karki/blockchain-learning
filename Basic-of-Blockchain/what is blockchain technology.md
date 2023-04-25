@@ -1,4 +1,4 @@
-### What is Blockchain technology?
+### What is Blockchain Technology?
 
 Blockchain technology is a distributed, decentralized ledger technology that allows trasactions to be recorded and verified securely and transparently. It consists of a network of computers(nodes) that work together to validate and record transactions in a way that is resistant to tamplering and fraud. 
 
