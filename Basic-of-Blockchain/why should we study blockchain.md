@@ -1,4 +1,4 @@
-Why shoud we study blockchain?
+### Why shoud we study blockchain?
 
 First of all blockchain is considered a disruptive and emerging technology because it has the potential to fundamentally change the way we conduct transactions, store data, and interact with each other online.
 
