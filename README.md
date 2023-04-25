@@ -1,6 +1,6 @@
 # Blockchain-Learning
 
-Most of the topics are from the playlist of the youtube channel [Code Eaters](https://www.youtube.com/@CodeEater21). And these are the summary that i learned from watching the videos. I recommend you to watch the full videos [Blockchain Full Course in Hindi](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) if you understand the Hindi language.
+Most of the topics are from the playlist of the youtube channel [Code Eaters](https://www.youtube.com/@CodeEater21). And these are the summary that i learned from watching the videos. I recommend you to watch the full videos [Blockchain Full Course in Hindi](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) if you understand the language.
 
 ## Topics cover
 - [Why should we study blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
