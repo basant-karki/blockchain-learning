@@ -1,3 +1,3 @@
 # Blockchain-Learning
 
-This is my first step for being a Smart Contract Auditor
+My first step to being a Smart Contract Auditor
