@@ -5,3 +5,4 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 ## Topics cover
 - [Why should we study blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
 - [What is blockchain technology?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20blockchain%20technology.md)
+- [Applications of blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/applications%20of%20blockchain.md)
