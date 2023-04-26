@@ -10,3 +10,4 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 - [Blockchain Immutable Concept and Benefits](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/blockchain%20immutable%20concept%20and%20benefits.md)
 - [What is P2P Network? Centerilized Network Vs P2P Network](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20P2P%20network%3F%20centerlized%20network%20vs%20P2P%20network.md)
 - [Distrubuted P2P Network in Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/distrubuted%20p2p%20network%20in%20blockchain.md)
+- [Blockchain Mining Process in Brief](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/blockchain%20mining%20process%20ni%20brief.md)
