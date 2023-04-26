@@ -12,5 +12,6 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 - [Distrubuted P2P Network in Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/distrubuted%20p2p%20network%20in%20blockchain.md)
 - [Blockchain Mining Process in Brief](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/blockchain%20mining%20process%20ni%20brief.md)
 - [Byzantine Fault Tolerance Concept in Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/byzantine%20falut%20tolerance%20concept%20in%20blockchain.md)
-- [Proof Of Work (PoW) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20work%20(PoW)%20concept%20on%20consensus%20protocol.md)
+- [Proof of Work (PoW) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20work%20(PoW)%20concept%20on%20consensus%20protocol.md)
+- [Proof of Stake (PoS) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20stake%20in%20Consensus%20protocol.md)
 - [Longest Chain Rule (Competing Chain Problem) in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Longest%20Chain%20Rule%20(Competing%20Chain%20Problem)%20in%20Consensus%20Protocol.md)
