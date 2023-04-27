@@ -15,3 +15,4 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 - [Proof of Work (PoW) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20work%20(PoW)%20concept%20on%20consensus%20protocol.md)
 - [Proof of Stake (PoS) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20stake%20in%20Consensus%20protocol.md)
 - [Longest Chain Rule (Competing Chain Problem) in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Longest%20Chain%20Rule%20(Competing%20Chain%20Problem)%20in%20Consensus%20Protocol.md)
+- [What is Bitcoin?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20bitcoin.md)
