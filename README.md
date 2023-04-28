@@ -31,3 +31,4 @@ Most of the topics are from the playlist [Blockchain full course in Hindi](https
 - [Cryptocurrency wallets in detail](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/cryptocurrency%20wallet%20in%20detail.md)
 - [Public and Private key in Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/public%20and%20private%20key%20in%20blockchain.md)
 - [Segregated Witness (SegWit)](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Segeregated%20witness.md)
+- [Public Key Vs Bitcoin Address](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/public%20key%20vs%20bitcoin%20address.md)
