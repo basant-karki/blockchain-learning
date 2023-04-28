@@ -1,6 +1,6 @@
 # Blockchain-Learning
 
-Most of the topics are from the playlist [Blockchain full course in Hindi](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) of the youtube channel [Code Eaters](https://www.youtube.com/@CodeEater21). And these are the summary that i learned from watching the videos.
+A Github repo provides a comprehensive introduction/summary to blockchain technology and use cases. It is designed for both technical and non-technical audiences who want's to learn about blockchain. I used several resources to combined a single repo to make everything available for learning blockchain.
 
 ## Topics cover - Basic of Blockchain [ Part-1 ]
 - [Why should we study Blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
