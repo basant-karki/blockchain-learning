@@ -23,3 +23,4 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 - [Importance of CPU vs GPU vs ASIC in Bitcoin Mining](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/importance%20of%20cpu%20vs%20gpu%20vs%20asic%20in%20bitcoin%20mining.md)
 - [What is Mining Pool?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20mining%20pool.md)
 - [What is Nonce Range?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20nonce%20range.md)
+- [What is Timestamp](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20timestamp.md)
