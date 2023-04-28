@@ -19,3 +19,4 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 - [What is Bitcoin's Monetary Policy? Why are bitcoin limited to 21 million?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Bitcoin's%20Monetary%20Policy%3F%20%7C%20Why%20are%20bitcoin%20limited%20to%2021%20million%3F.md#what-is-bitcoins-monetary-policy-why-are-bitcoin-limited-to-21-million)
 - [What is Nonce in Mining?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Nonce%20in%20mining%3F.md)
 - [Bitcoin Difficulty Target History](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Bitcoin%20Difficulty%20Target%20History.md)
+- [Importance of CPU vs GPU vs ASIC in Bitcoin Mining](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/importance%20of%20cpu%20vs%20gpu%20vs%20asic%20in%20bitcoin%20mining.md)
