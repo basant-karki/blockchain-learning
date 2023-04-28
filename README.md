@@ -2,7 +2,7 @@
 
 Most of the topics are from the playlist [Blockchain full course in Hindi](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) of the youtube channel [Code Eaters](https://www.youtube.com/@CodeEater21). And these are the summary that i learned from watching the videos.
 
-## Topics cover - Basic of Blockchain [Part-1]
+## Topics cover - Basic of Blockchain [ Part-1 ]
 - [Why should we study Blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
 - [What is Blockchain Technology?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20blockchain%20technology.md)
 - [Applications of Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/applications%20of%20blockchain.md)
@@ -15,7 +15,7 @@ Most of the topics are from the playlist [Blockchain full course in Hindi](https
 - [Proof of Work (PoW) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20work%20(PoW)%20concept%20on%20consensus%20protocol.md)
 - [Proof of Stake (PoS) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20stake%20in%20Consensus%20protocol.md)
 - [Longest Chain Rule (Competing Chain Problem) in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Longest%20Chain%20Rule%20(Competing%20Chain%20Problem)%20in%20Consensus%20Protocol.md)
-## Topics cover - Basic of Blockchain [Part-2]
+## Topics cover - Basic of Blockchain [ Part-2 ]
 - [What is Bitcoin?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20bitcoin.md)
 - [What is Bitcoin's Monetary Policy? Why are bitcoin limited to 21 million?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Bitcoin's%20Monetary%20Policy%3F%20%7C%20Why%20are%20bitcoin%20limited%20to%2021%20million%3F.md#what-is-bitcoins-monetary-policy-why-are-bitcoin-limited-to-21-million)
 - [What is Nonce in Mining?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Nonce%20in%20mining%3F.md)
