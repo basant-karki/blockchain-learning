@@ -27,5 +27,5 @@ Most of the topics are from the playlist of the youtube channel [Code Eaters](ht
 - [What is Mempool?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20mempool.md)
 - [How do Mempool works?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/how%20do%20mempool%20works%3F.md)
 - [Transactions and UTXOs](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/transactions%20and%20UTXOs.md)
-- [Transactions fee in Mining?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/transaction%20fee%20in%20mining.md)
+- [Transactions fee in Mining](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/transaction%20fee%20in%20mining.md)
 - [Cryptocurrency wallets in detail](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/cryptocurrency%20wallet%20in%20detail.md)
