@@ -1,6 +1,6 @@
 # Blockchain-Learning
 
-A Github repo provides a comprehensive introduction/summary to blockchain technology and use cases. It is designed for both technical and non-technical audiences who want's to learn about blockchain. I used several resources to combined a single repo to make everything available for learning blockchain.
+A Github repo provides a comprehensive introduction/summary to blockchain technology and use cases. It is designed for both technical and non-technical audiences who want's to learn more about the blockchain. I used several resources to combined a single repo to make everything available for audiences specially who want's to make future on Smart Contract Auditing/Hacking.
 
 ## Topics cover - Basic of Blockchain [ Part-1 ]
 - [Why should we study Blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
