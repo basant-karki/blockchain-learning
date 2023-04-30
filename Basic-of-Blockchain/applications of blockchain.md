@@ -1,4 +1,4 @@
-## Applications of blockchain
+### Applications of blockchain
 
 There are many potential applications for blockchain technology, ranging from financial services and supply chain management to identity verification and voting systems. Here are some examples:
 
