@@ -1,4 +1,4 @@
-
+### What is Sharding and How it's Works?
 
 Sharding is a scaling solution for blockchain networks that involves breaking down a large database into smaller, more manageable parts called "shards." Each shard contains a subset of the network's data and is processed by a subset of nodes in the network, rather than by all nodes at once.
 
