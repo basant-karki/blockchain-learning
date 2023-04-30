@@ -4,7 +4,7 @@ Altcoins are any cryptocurrency that is not Bitcoin. The term "altcoin" stands f
 
 Some examples of popular altcoins include:
 
-   1.Ethereum (ETH): A decentralized blockchain platform that enables smart contracts and decentralized applications (DApps).
+   1. Ethereum (ETH): A decentralized blockchain platform that enables smart contracts and decentralized applications (DApps).
 
    2. Litecoin (LTC): A peer-to-peer cryptocurrency that is designed to be faster and more efficient than Bitcoin.
 
