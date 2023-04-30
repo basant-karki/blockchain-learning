@@ -47,6 +47,5 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [What is Hard Fork in Ethereum | Ethereum Vs Classic Ethereum]()
 - [What is Soft Fork in Ethereum | Common Differences between Hardfork & Softfork]()
 - [Initial Coin Offering | ICO Vs IPO]()
-- [Ethereum 2.0 (Serenity) Proof of Stake Vs Proof of Work]()
 - [What is Sharding and How it's Works?]()
 - [What is Altcoins?]()
