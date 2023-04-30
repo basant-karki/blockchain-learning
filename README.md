@@ -33,3 +33,5 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Segregated Witness (SegWit)](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Segeregated%20witness.md)
 - [Public Key Vs Bitcoin Address](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/public%20key%20vs%20bitcoin%20address.md)
 - [Hierarchical Deterministic (HD) wallets](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/hierarchical%20deterministic%20wallets.md)
+## Topics cover - Basic of Blockchain [ Part-3 ]
+[What is Ethereum]()
