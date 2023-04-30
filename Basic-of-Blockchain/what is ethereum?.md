@@ -1,4 +1,4 @@
-### What is Ethereum?
+## What is Ethereum?
 
 Ethereum is a decentralized blockchain platform that enables developers to build decentralized applications (DApps) and smart contracts. It was created by Vitalik Buterin in 2013, and launched in 2015.
 
