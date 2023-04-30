@@ -41,7 +41,7 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Decentralized (DApps)| Centrallized and Decentrallized Applications]()
 - [Ethereum Virtual Machine (EVM) in Ethereum]()
 - [What is Ethereum Gas | Price | Limits]()
-- [Etereum Block]()
+- [Ethereum Block]()
 - [Decentralised Autonomous Orginization (DAO)]()
 - [The DAO Attack | Ethereum Blockchain Split]()
 - [What is Hard Fork in Ethereum | Ethereum Vs Classic Ethereum]()
