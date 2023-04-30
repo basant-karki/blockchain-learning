@@ -1,4 +1,4 @@
-### Nodes in Ethereum and Different types of Nodes
+## Nodes in Ethereum and Different types of Nodes
 
 Nodes in Ethereum refer to any device or computer that is connected to the Ethereum network and helps maintain the network's operation. Nodes store a copy of the Ethereum blockchain and validate transactions and blocks to ensure the network remains secure and transparent. There are several types of nodes in Ethereum, including:
 
