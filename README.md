@@ -49,3 +49,5 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Initial Coin Offering | ICO Vs IPO](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Initial%20Coin%20Offering%20%7C%20ICO%20Vs%20IPO.md)
 - [What is Sharding and How it's Works?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Sharding%20and%20How%20it's%20Works.md)
 - [What is Altcoins? Altcoin Examples](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Altcoins%3F%20Altcoin%20Examples.md)
+## Topics cover - Basic of Blockchain [ Part-4 ]
+[What is an Oracle? | How Chainlink Decentralize Oracle Works? | Chainlink Data Feed and VRF]()
