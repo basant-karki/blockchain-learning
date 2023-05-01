@@ -52,3 +52,4 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 ## Topics cover - Basic of Blockchain [ Part-4 ]
 - [What is an Oracle? | How Chainlink Decentralize Oracle Works? | Chainlink Data Feed and VRF]()
 - [What is Liquidity?]()
+- [Different types of Protocols in Blockchain]()
