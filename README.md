@@ -50,6 +50,6 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [What is Sharding and How it's Works?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Sharding%20and%20How%20it's%20Works.md)
 - [What is Altcoins? Altcoin Examples](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Altcoins%3F%20Altcoin%20Examples.md)
 ## Topics cover - Basic of Blockchain [ Part-4 ]
-- [What is an Oracle? | How Chainlink Decentralize Oracle Works? | Chainlink Data Feed and VRF]()
-- [What is Liquidity?]()
-- [Different type of Protocols in Blockchain]()
+- [What is an Oracle? | How Chainlink Decentralize Oracle Works? | Chainlink Data Feed and VRF](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20oracle%20%7C%20how%20chainlink%20decentrilized%20oracle%20works%20%7C%20chainlink%20data%20feed%20and%20vrf.md)
+- [What is Liquidity?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20liquidity.md)
+- [Different type of Protocols in Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/different%20types%20of%20protocols%20in%20blockchain.md)
