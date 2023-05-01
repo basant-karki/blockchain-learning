@@ -51,3 +51,4 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [What is Altcoins? Altcoin Examples](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Altcoins%3F%20Altcoin%20Examples.md)
 ## Topics cover - Basic of Blockchain [ Part-4 ]
 [What is an Oracle? | How Chainlink Decentralize Oracle Works? | Chainlink Data Feed and VRF]()
+[What is Liquidity?]()
