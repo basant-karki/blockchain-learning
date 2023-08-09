@@ -1,3 +1,5 @@
+### Distrubuted P2P Network in Blockchain
+
 A distributed peer-to-peer (P2P) network is a key feature of blockchain technology. In a blockchain network, there is no central authority or intermediary, and all participants have equal access to the ledger and can transact with each other directly.
 
 In a blockchain network, each participant or node has a copy of the entire ledger, which is constantly updated and synchronized across the network. Transactions are broadcast to all nodes on the network, and each node verifies the transaction independently before adding it to its copy of the ledger. This process is known as consensus, and it is essential for maintaining the integrity and security of the blockchain.
