@@ -34,6 +34,7 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Public Key Vs Bitcoin Address](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/public%20key%20vs%20bitcoin%20address.md)
 - [Hierarchical Deterministic (HD) wallets](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/hierarchical%20deterministic%20wallets.md)
 ## Topics cover - Basic of Blockchain [ Part-3 ]
+[Note: It's better to learn Ethereum Blockchain from Secureum 101 for more in detail ]
 - [What is Ethereum?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20ethereum%3F.md)
 - [Nodes in Ethereum and it's Types](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/nodes%20in%20ethereum%20%26%20its%20types.md)
 - [Accounts in Ethereum | Externally and Contract Controlled Account](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/accounts%20in%20ethererum%20%7C%20externally%20and%20contract%20controlled%20acccount.md)
