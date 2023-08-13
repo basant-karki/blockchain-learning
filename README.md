@@ -2,7 +2,7 @@
 
 A Github repo provides a comprehensive introduction/summary to blockchain technology and use cases. It is designed for both technical and non-technical audiences who want's short & sweet explaination about the blockchain. I used several resources to combined a single repo to make everything available for audiences specially who want's to make future on Smart Contract Auditing/Hacking.
 
-## Topics cover - Basic of Blockchain [ Part-1 ]
+## Topics cover - Basic of Blockchain
 - [Why should we study Blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
 - [What is Blockchain Technology?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20blockchain%20technology.md)
 - [Applications of Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/applications%20of%20blockchain.md)
@@ -15,7 +15,7 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Proof of Work (PoW) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20work%20(PoW)%20concept%20on%20consensus%20protocol.md)
 - [Proof of Stake (PoS) Concept in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/proof%20of%20stake%20in%20Consensus%20protocol.md)
 - [Longest Chain Rule (Competing Chain Problem) in Consensus Protocol](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Longest%20Chain%20Rule%20(Competing%20Chain%20Problem)%20in%20Consensus%20Protocol.md)
-## Topics cover - Basic of Blockchain [ Part-2 ]
+## Topics cover - Basic of Bitcoin Blockchain
 - [What is Bitcoin?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20bitcoin.md)
 - [What is Bitcoin's Monetary Policy? Why are bitcoin limited to 21 million?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Bitcoin's%20Monetary%20Policy%3F%20%7C%20Why%20are%20bitcoin%20limited%20to%2021%20million%3F.md#what-is-bitcoins-monetary-policy-why-are-bitcoin-limited-to-21-million)
 - [What is Nonce in Mining?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Nonce%20in%20mining%3F.md)
@@ -33,7 +33,7 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Segregated Witness (SegWit)](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Segeregated%20witness.md)
 - [Public Key Vs Bitcoin Address](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/public%20key%20vs%20bitcoin%20address.md)
 - [Hierarchical Deterministic (HD) wallets](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/hierarchical%20deterministic%20wallets.md)
-## Topics cover - Basic of Blockchain [ Part-3 ]
+## Topics cover - Basic of Ethereum Blockchain
 [Note: It's better to learn Ethereum Blockchain from Secureum 101 for more in detail ]
 - [What is Ethereum?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20ethereum%3F.md)
 - [Nodes in Ethereum and it's Types](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/nodes%20in%20ethereum%20%26%20its%20types.md)
