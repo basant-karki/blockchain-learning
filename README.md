@@ -1,6 +1,6 @@
 # Blockchain-Learning
 
-A Github repo provides a comprehensive introduction/summary to blockchain technology and use cases. It is designed for both technical and non-technical audiences who want's short & sweet explaination about the blockchain. I used several resources to combined a single repo to make everything available for audiences specially who want's to make future on Smart Contract Auditing/Hacking.
+A GitHub repo provides a comprehensive introduction/summary of blockchain technology and use cases. It is designed for both technical and non-technical audiences who want short & sweet explanations about blockchains. I used several resources to combine a single repo to make everything available for audiences especially those who want to make future on Smart Contract Auditing/Hacking.
 
 ## Topics cover - Basic of Blockchain
 - [Why should we study Blockchain?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/why%20should%20we%20study%20blockchain.md)
@@ -50,7 +50,7 @@ A Github repo provides a comprehensive introduction/summary to blockchain techno
 - [Initial Coin Offering | ICO Vs IPO](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/Initial%20Coin%20Offering%20%7C%20ICO%20Vs%20IPO.md)
 - [What is Sharding and How it's Works?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Sharding%20and%20How%20it's%20Works.md)
 - [What is Altcoins? Altcoin Examples](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/What%20is%20Altcoins%3F%20Altcoin%20Examples.md)
-## Topics cover - Basic of Blockchain [ Part-4 ]
+## Others
 - [What is an Oracle? | How Chainlink Decentralize Oracle Works? | Chainlink Data Feed and VRF](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20oracle%20%7C%20how%20chainlink%20decentrilized%20oracle%20works%20%7C%20chainlink%20data%20feed%20and%20vrf.md)
 - [What is Liquidity?](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/what%20is%20liquidity.md)
 - [Different type of Protocols in Blockchain](https://github.com/basant-karki/blockchain-learnings/blob/main/Basic-of-Blockchain/different%20types%20of%20protocols%20in%20blockchain.md)
